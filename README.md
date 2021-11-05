@@ -5,9 +5,11 @@ By [Claire Tolan](https://cst.yt)
 Produced by [czirp czirp](http://www.czirpczirp.cc/)
 
 This repository houses the front-end flutter app, configured for iOS build. 
-For android flutter repo, see: 
-For ios Unity project (add as submodule inside `unity/`), see:
-For android Unity project, see: 
+Here's the [Android flutter repo](https://github.com/naturalshine/cicada_games_android). 
+
+
+iOS and Android Unity projects are not currently open-sourced. 
+
 
 The app relies upon the [`Flutter-Unity Widget`](https://pub.dev/packages/flutter_unity_widget).
 
